@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-express-sequelize-mysql",
+  "name": "app-senac-crud-com-node-express-mysql",
   "version": "1.0.0",
   "description": "Node.js Rest Apis with Express, Sequelize & MySQL",
   "main": "server.js",
@@ -15,7 +15,7 @@
     "sequelize",
     "mysql"
   ],
-  "author": "bezkoder",
+  "author": "Senac",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
